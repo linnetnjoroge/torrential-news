@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/summarize.js": { "maxDuration": 60 },
+    "api/onedrive.js": { "maxDuration": 30 }
+  }
+}
